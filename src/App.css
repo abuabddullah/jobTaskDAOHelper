@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+.columnz1 {}
+.columnz1 > h2 {
+  border-color: #C4C4C4;
+}
+.columnz1 > div {}
+.columnz1 > div > div  {}
+.columnz1 > div > div > div:nth-child(1)  {}
+.columnz1 > div > div > div:nth-child(1) > h3 {}
+.columnz1 > div > div > div:nth-child(2)  {}
+.columnz1 > div > div > div:nth-child(2) > p {}
+.columnz1 > div > div > div:nth-child(3)  {
+  background-color: #C4C4C4;
+}
+.columnz1 > div > div > div:nth-child(3) > p:nth-child(1) {}
+.columnz1 > div > div > div:nth-child(3) > p:nth-child(2) {}
+
+
+
+
+
+.columnz2 > h2 {
+  border-color: #5f71d4;
+}
+.columnz2 > div > div > div:nth-child(3)  {
+  background-color: #5f71d4;
+  color : white;
+}
+
+
+
+
+.columnz3 > h2 {
+  border-color: #a516d9;
+}
+.columnz3 > div > div > div:nth-child(3)  {
+  background-color: #a516d9;
+  color : white;
+}
+
+
+
+
+.columnz4 > h2 {
+  border-color: #06dbac;
+}
+.columnz4 > div > div > div:nth-child(3)  {
+  background-color: #06dbac;
+  color : white;
+}
